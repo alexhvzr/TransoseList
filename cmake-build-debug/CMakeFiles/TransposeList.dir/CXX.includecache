@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/TransposeList/dlist.cpp.h
+
+/Users/alex/CLionProjects/TransposeList/dlist.h
+iostream
+-
+dlist.cpp.h
+/Users/alex/CLionProjects/TransposeList/dlist.cpp.h
+
+/Users/alex/CLionProjects/TransposeList/main.cpp
+iostream
+-
+string
+-
+transposelist.h
+/Users/alex/CLionProjects/TransposeList/transposelist.h
+
+/Users/alex/CLionProjects/TransposeList/transposelist.cpp.h
+
+/Users/alex/CLionProjects/TransposeList/transposelist.h
+iostream
+-
+dlist.h
+/Users/alex/CLionProjects/TransposeList/dlist.h
+transposelist.cpp.h
+/Users/alex/CLionProjects/TransposeList/transposelist.cpp.h
+
